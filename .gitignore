@@ -1,0 +1,10 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/raw/
+data/processed/
+checkpoints/
+.ivy2/
